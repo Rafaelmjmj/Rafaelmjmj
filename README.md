@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rafaelmjmj
 - 👀 I’m interested in learn about programming
 - 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on to join a company as a web developer
+- 💞️ I am currently working at the company Compass UOL as an intern in software development using Java, Spring Boot and AWS
 - 📫 How to reach me IG:rafaelmjmj1 | Linkedin:(https://www.linkedin.com/in/rafael-machado-62332b239/)
 
 <!---
